@@ -1,4 +1,4 @@
-![favicon](https://github.com/user-attachments/assets/ffaddbc2-4e73-4a64-9fdc-fbbecbec25f8)
+<a href="#"><img src="https://github.com/user-attachments/assets/ffaddbc2-4e73-4a64-9fdc-fbbecbec25f8" /></a>
 
 # Feed Rate Adjuster
 
