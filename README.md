@@ -41,8 +41,8 @@ The **Feed Rate Adjuster** application is ideal for machinists who frequently wo
 
 ## Installation
 
-1. Download the latest version of the **Feed Rate Adjuster** application from the [releases page](#).
-2. Extract the files and run the executable `FeedRateAdjuster.exe`.
+1. Download the latest version of the **Feed Rate Adjuster** application from the [releases page](https://github.com/Booth-Ashley/Feed-Rate-Adjuster/releases).
+2. Run the executable.
 
 Alternatively, if you want to build the application from source:
 1. Clone this repository.
