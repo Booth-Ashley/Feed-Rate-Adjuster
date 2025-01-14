@@ -2,7 +2,7 @@
 
 # Feed Rate Adjuster
 
-**Feed Rate Adjuster** is a Windows application built using C# and Visual Studio 2022. The app automatically adjusts the feed rate in G-code for CNC machines. It allows users to modify the feed rate for G2 and G3 commands based on the value they input (ranging from 1 to 10,000). The adjusted G-code can then be saved into a new file.
+**Feed Rate Adjuster** is a Windows application built using C#. The app automatically adjusts the feed rate in G-code for CNC machines. It allows users to modify the feed rate for G2 and G3 commands based on the value they input (ranging from 1 to 10,000). The adjusted G-code can then be saved into a new file.
 
 ## Features
 
